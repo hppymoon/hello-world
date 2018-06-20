@@ -1,1 +1,6 @@
 # hello-world
+Hi everybody!
+I like programming, web designing,everything about this web world, i love everytihg which burn from 0 and 1...
+i am not a good designer and coder, but i want to be a good one and became a good web developer,not only front end, ...
+i think web and technologies  just like a super massive black hole, or it is so for me.. i can't save myself from it :)) and this stuation was being of my beginning point..
+(by the way , sorry for my bad english .. :))
